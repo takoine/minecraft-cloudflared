@@ -2,8 +2,8 @@
 Main purpose of this project is to expose dockerized Minecraft server without opening any ports on the local network with the help of Cloudflare Tunnel.
 ### Prerequisites
 
-[Docker](https://docs.docker.com/get-docker/) / [Docker Compose](https://github.com/docker/compose#where-to-get-docker-compose)
-[Cloudflare account / Domain which uses Cloudflare nameservers](https://developers.cloudflare.com/dns/zone-setups/full-setup/setup/)
+- [Docker](https://docs.docker.com/get-docker/) / [Docker Compose](https://github.com/docker/compose#where-to-get-docker-compose)
+- [Cloudflare account / Domain which uses Cloudflare nameservers](https://developers.cloudflare.com/dns/zone-setups/full-setup/setup/)
 
 ### Quick Start
 
