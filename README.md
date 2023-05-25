@@ -14,7 +14,7 @@ Main purpose of this project is to expose dockerized Minecraft server without op
    ```
 3. Enter your tunnel token in `docker-compose.yml`
    ```sh
-   TUNNEL_TOKEN="{{token}}";
+   TUNNEL_TOKEN="{{token}}"
    ```
    Or export it as a environment variable
    ```sh
@@ -29,7 +29,7 @@ Main purpose of this project is to expose dockerized Minecraft server without op
 
 <!-- USAGE EXAMPLES -->
 ## Advanced Usage
-For advanced usage consult the documentation of [Cloudflare Zero Trust](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/) and [itzg/minecraft-server repository](https://github.com/itzg/docker-minecraft-server)
+For advanced usage consult the documentation of [Cloudflare Zero Trust](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/) and [itzg/minecraft-server repository](https://github.com/itzg/docker-minecraft-server).
 
 
 
